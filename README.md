@@ -27,6 +27,6 @@
     <a href = "mailto:felipe.brandao98@icloud.com"><img src="https://img.shields.io/badge/-iCloud-%23333?style=for-the-badge&logo=apple&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/felipe-ferreira-brandão-pinto-622853148" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/FelipeBrandao98/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FelipeBrandao98/FelipeBrandao98/blob/output/github-contribution-grid-snake.svg)
  
 </div>
